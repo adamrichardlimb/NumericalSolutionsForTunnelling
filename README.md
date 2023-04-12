@@ -4,4 +4,4 @@ In my second Python project, I looked at numerical solutions for tunnelling thro
 
 Ultimately, I found that the width of the barrier contributes greatly to throwing off numerical solutions when compared to the theoretical solutions for a potential of the same shape.
 
-You can read the full report (here)[https://drive.google.com/file/d/1NV5e5alzCbYGmwOTHCllj-gf4-VUocE6/view?usp=sharing].
+You can read the full report [here](https://drive.google.com/file/d/1NV5e5alzCbYGmwOTHCllj-gf4-VUocE6/view?usp=sharing).
